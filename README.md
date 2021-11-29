@@ -55,4 +55,4 @@ We import the dataset, created new features, and we created EDA, handling missin
 We use Logistic Regression for this model because this model is one of the models that we are familiar with, and we did hyperparameter tuning on this model, and we got good accuracy results.
 
 # Evaluation
-We have got 80% for recall score, accuracy for test set is 80%, and in confusion matrix, we've got 152 for True Positive, 38 for True Negative, 753 for False Positive, and 183 for False Negative
+We have got 80% for recall score, accuracy for test set is 80%, and in confusion matrix, we've got 152 for True Positive, 38 for True Negative, 753 for False Positive, and 183 for False Negative.
