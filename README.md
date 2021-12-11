@@ -1,10 +1,4 @@
 # E-Commerce Customer Churn Analysis and Prediction with Logistic Regression
-by : Bravo Team
-
-- Anderson Scipio
-- Dicky Ardi
-- Raka Buana Sati
-
 This Repository Contains:
 - Dataset
 - Source Code
